@@ -1,3 +1,7 @@
+
+/*-------------- GOOGLE FONTS ------------------ */
+
+/* -------- POPPINS 500, 600, 700 --------- */
 @font-face {
     font-display: swap;
     font-family: 'Poppins';
@@ -20,6 +24,8 @@
     src: url('../fonts/poppins-v20-latin-700.woff2') format('woff2'); 
   }
 
+
+/* ---------- INTER 500, 700 ----------- */
 
 @font-face {
     font-display: swap; 
@@ -361,14 +367,12 @@ body{
     margin-top: 2rem;
     text-transform: capitalize;
 }
-
 .starts-img_box {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
-.star {
+.starts-img {
     margin-top: 1.5rem;
     width: 10.4rem;
     height: 2rem;
